@@ -5,6 +5,9 @@
 
 This folder contains source code for modeling human atrial action potential and Ca2+ with changes with PLN and beta-adrenergic activation.   
 
+Please cite the following publication when applicable:
+
+* Kervadec A, Kezos J, Ni H, Yu M, Marchant J, Spiering S, Kannan S, Kwon C, Andersen P, Bodmer R, Grandi E, Ocorr K, Colas AR. Multiplatform modeling of atrial fibrillation identifies phospholamban as central regulator of cardiac rhythm. Dis Model Mech. 2023 Jun 9;. doi: 10.1242/dmm.049962. [Epub ahead of print] PubMed PMID: 37293707. 
 ---
 
 ### Single Cells:
